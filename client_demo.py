@@ -1,3 +1,13 @@
+"""
+See https://us-pycon-2019-tutorial.readthedocs.io/aiohttp_client_full.html#full-client
+for more ideas.
+
+This is demo code that can be run interactively in ipython or Jupyter, not
+as a module script run directly by python (the async `await` won't work outside of
+a function call in a regular script). It's just to provide ideas about how to
+use the provided server.
+"""
+
 import aiohttp
 import json
 
